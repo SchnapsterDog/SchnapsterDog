@@ -6,7 +6,6 @@ CEO & Founder & Full Stack Developer
 
 *   🌍  I'm based in Ohrid, Macedonia
 *   ✉️  You can contact me at [oliver@akrinum.com](mailto:oliver@akrinum.com)
-*   🚀  I'm currently working on [Vue Preloader](http://vue-preloader.com)
 *   🤝  I'm open to collaborating on interesting projects as a developer
 *   ⚡  I am proud father, dogs owner, beer lover and punk rocker
 
