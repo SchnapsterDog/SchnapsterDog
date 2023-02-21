@@ -1,8 +1,8 @@
 ## Servus! :wave:
 
-Hi there! I'm [Oliver](https://www.linkedin.com/in/oliver-trajceski-8a28b070/) and I'm a CEO/Founder and Senior Full-stack developer at [Akrinum OÜ‬](https://akrinum.com). I am creating and deploying powerful, responsive, and modern SPA, SSG and SSR applications from development to the production stage.
+Hello, I'm [Oliver](https://www.linkedin.com/in/oliver-trajceski-8a28b070/), the CEO and Founder, as well as a Senior Full-stack developer at [Akrinum OÜ‬](https://akrinum.com). I specialize in creating powerful, responsive, and modern Single Page Applications (SPA), Static Site Generators (SSG), and Server-Side Rendered (SSR) applications, from development to production.
 
-I am skilled in Vue.js, Nuxt.js, and other custom Vue based frameworks on the Front-end side, and Laravel, CodeIgniter, and various headless CMS (Prismic CMS, FlexiCMS, PyroCMS, Strapi) on the Back-end side.
+My expertise lies in Front-end technologies such as Vue.js, Nuxt.js, and other custom Vue-based frameworks, as well as Back-end technologies such as Laravel, CodeIgniter, and various headless CMS platforms like Prismic CMS, FlexiCMS, PyroCMS, and Strapi.
 
 In 2020, I created [IMG Force](https://imgforce.com), a global platform that enables users to upload images quickly and provides real-time optimization. I am also a co-author of [Discover Ohrid](https://discoverohrid.mk/), the first interactive travel guide that accompanies travelers in their journey to discover Ohrid - The City of Light, available on [Google Play](Discover Ohrid) and [Apple Store](Discover Ohrid).
 
