@@ -19,10 +19,3 @@ In 2020, I created [IMG Force](https://imgforce.com), a global platform that ena
 Recently, at the end of 2022, I developed [vue-marquee-slider](https://vue-marquee.com/), a component for Vue that allows users to create customizable marquees with just a few lines of code. This simple and user-friendly tool is easy to use and can be customized to fit the needs of any project.
 
 Additionally, I am actively developing various nuxt.js modules as I am passionate about making the web a better place. I am always looking for new and innovative ways to achieve this goal, so please do not hesitate to contact me if you want to learn more about my current projects.
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a
-                      href="http://www.github.com/schnapsterdog"><img src="https://github-readme-stats.vercel.app/api?username=schnapsterdog&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="schnapsterdog's GitHub stats" /></a><a href="https://github.com/schnapsterdog" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schnapsterdog&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
