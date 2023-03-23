@@ -1,7 +1,7 @@
 Servus 👋 My name is Oliver
 ===============================
 
-CEO & Founder & Full Stack Developer
+CEO · Founder · Software Architect · Senior Front-end Developer · Open Sourcer · Mentor · Jamstack
 -----------------------------
 
 *   🌍  I'm based in Ohrid, Macedonia
