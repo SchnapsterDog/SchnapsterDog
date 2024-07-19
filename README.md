@@ -1,7 +1,7 @@
 Servus 👋 My name is Oliver
 ===============================
 
-CEO · Founder · Software Architect · Senior Front-end Developer · Open Sourcer · Mentor · Jamstack
+Software Architect · Senior Front-end Developer · Open Sourcer · Mentor · Jamstack
 -----------------------------
 
 *   🌍  I'm based in Ohrid, Macedonia
@@ -10,7 +10,7 @@ CEO · Founder · Software Architect · Senior Front-end Developer · Open Sourc
 *   ⚡  I am proud father, dogs owner, beer lover and punk rocker
 
 -----------------------------
-Hello, I'm [Oliver](https://www.linkedin.com/in/oliver-trajceski-8a28b070/), the CEO and Founder, as well as a Senior Full-stack developer at [Akrinum OÜ‬](https://akrinum.com). I specialize in creating powerful, responsive, and modern Single Page Applications (SPA), Static Site Generators (SSG), and Server-Side Rendered (SSR) applications, from development to production.
+Hello, I'm [Oliver](https://www.linkedin.com/in/oliver-trajceski-8a28b070/), and I specialize in creating powerful, responsive, and modern Single Page Applications (SPA), Static Site Generators (SSG), and Server-Side Rendered (SSR) applications, from development to production.
 
 My expertise lies in Front-end technologies such as Vue.js, Nuxt.js, and other custom Vue-based frameworks, as well as Back-end technologies such as Laravel, CodeIgniter, and various headless CMS platforms like Prismic CMS, FlexiCMS, PyroCMS, and Strapi.
 
