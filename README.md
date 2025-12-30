@@ -4,20 +4,34 @@ Servus 👋 My name is Oliver
 Software Architect · Senior Front-end Developer · Open Sourcer · Mentor · Jamstack
 -----------------------------
 
-*   🌍  I'm based in Ohrid, Macedonia
-*   ✉️  You can contact me at [oliver@akrinum.com](mailto:oliver@akrinum.com)
-*   🤝  I'm open to collaborating on interesting projects as a developer
-*   ⚡  I am proud father, dogs owner, beer lover and punk rocker
+*   🌍  I'm based in Ohrid, Macedonia
+*   ✉️  You can contact me at [oliver@akrinum.com](mailto:oliver@akrinum.com)
+*   🤝  I'm open to collaborating on interesting projects as a developer
+*   ⚡  I am proud father, dogs owner, beer lover and punk rocker
 
 -----------------------------
-Hello, I'm [Oliver](https://www.linkedin.com/in/oliver-trajceski-8a28b070/), and I specialize in creating powerful, responsive, and modern Single Page Applications (SPA), Static Site Generators (SSG), and Server-Side Rendered (SSR) applications, from development to production.
 
-My expertise lies in Front-end technologies such as Vue.js, Nuxt.js, and other custom Vue-based frameworks, as well as Back-end technologies such as Laravel, CodeIgniter, and various headless CMS platforms like Prismic CMS, FlexiCMS, PyroCMS, and Strapi.
+Hello, I'm [Oliver](https://www.linkedin.com/in/oliver-trajceski-8a28b070/).
 
-In 2020, I created [IMG Force](https://imgforce.com), a global platform that enables users to upload images quickly and provides real-time optimization. I am also a co-author of [Discover Ohrid](https://discoverohrid.mk/), the first interactive travel guide that accompanies travelers in their journey to discover Ohrid - The City of Light, available on [Google Play](Discover Ohrid) and [Apple Store](Discover Ohrid).
+I architect and build production-grade web applications end-to-end — from idea and UX to deployment and scaling. My core stack is **Vue.js / Nuxt (3 & 4)** on the front-end and **Laravel (Passport)** on the back-end, where I design APIs for everything from small MVPs to larger, multi-module platforms.
 
-At the end of 2022, I developed [vue-marquee-slider](https://vue-marquee.com/), a component for Vue that allows users to create customizable marquees with just a few lines of code. This simple and user-friendly tool is easy to use and can be customized to fit the needs of any project. At the beginning of 2023 I worked and created [vue-preloader](https://vue-preloader.com/), The Ultimate Solution for Fast Loading Screens.
+On the infrastructure side, I ship products to production using **Laravel Vapor** and **DigitalOcean Docker-based deployments** (containers, CI/CD, environments, monitoring-friendly setups). I also implement **Stripe Payments** (Checkout, webhooks, one-time payments, subscriptions/credit packs) with a focus on clean architecture and real-world reliability.
 
-Recently I created [nuxt-chatgpt](https://github.com/SchnapsterDog/nuxt-chatgpt), a Nuxt 3 module for ChatGPT integration.
+### Featured projects
 
-Additionally, I am actively developing various nuxt.js modules as I am passionate about making the web a better place. I am always looking for new and innovative ways to achieve this goal, so please do not hesitate to contact me if you want to learn more about my current projects.
+- **Hausly** — https://hausly.io  
+  A complete SaaS product built recently with **Nuxt 4 frontend + Laravel Passport API**, **Stripe payments**, SEO-friendly pages, and a fully responsive UI (mobile/tablet/desktop).
+
+- **nuxt-chatgpt** — https://github.com/SchnapsterDog/nuxt-chatgpt  
+  A Nuxt module for ChatGPT integration (open-source).
+
+- **vue-marquee-slider** — https://vue-marquee.com/  
+  A simple, customizable marquee/slider component for Vue.
+
+- **vue-preloader** — https://vue-preloader.com/  
+  The ultimate solution for fast loading screens in Vue.
+
+- **Discover Ohrid** — https://discoverohrid.mk/  
+  Co-author of an interactive travel guide for Ohrid — The City of Light.
+
+Additionally, I actively build and maintain Vue/Nuxt open-source packages, and I enjoy mentoring and collaborating with teams that care about quality, performance, and clean maintainable code.
