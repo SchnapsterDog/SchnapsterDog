@@ -11,7 +11,7 @@ Software Architect · Senior Front-end Developer · Open Sourcer · Mentor · Ja
 
 -----------------------------
 
-Hello, I'm [Oliver](https://www.linkedin.com/in/oliver-trajceski-8a28b070/).
+Hello, I'm [Oliver](https://www.linkedin.com/in/oliver-t-8a28b070/).
 
 I architect and build production-grade web applications end-to-end — from idea and UX to deployment and scaling. My core stack is **Vue.js / Nuxt (3 & 4)** on the front-end and **Laravel (Passport)** on the back-end, where I design APIs for everything from small MVPs to larger, multi-module platforms.
 
