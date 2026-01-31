@@ -22,6 +22,9 @@ On the infrastructure side, I ship products to production using **Laravel Vapor*
 - **Hausly** — https://hausly.io  
   A complete SaaS product built recently with **Nuxt 4 frontend + Laravel Passport API**, **Stripe payments**, SEO-friendly pages, and a fully responsive UI (mobile/tablet/desktop).
 
+- **ReplyGuard** — https://replyguard.ai
+  An AI-powered client email shield for freelancers and agencies. Generates professional reply packs, detects scope creep, and suggests clear next steps. Built with a Nuxt 3 frontend, Laravel API, Google OAuth, Stripe credit-based payments, and SEO-optimized landing pages.
+
 - **nuxt-chatgpt** — https://github.com/SchnapsterDog/nuxt-chatgpt  
   A Nuxt module for ChatGPT integration (open-source).
 
