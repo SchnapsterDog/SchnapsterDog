@@ -22,7 +22,10 @@ On the infrastructure side, I ship products to production using **Laravel Vapor*
 - **Hausly** — https://hausly.io  
   A complete SaaS product built recently with **Nuxt 4 frontend + Laravel Passport API**, **Stripe payments**, SEO-friendly pages, and a fully responsive UI (mobile/tablet/desktop).
 
-- **ReplyGuard** — https://replyguard.ai
+- **edocu.io** — https://edocu.io  
+  A lightweight document tool that allows users to quickly sign and annotate PDFs/images online. Built for speed, simplicity, and real-world usage with growing organic traffic.
+
+- **ReplyGuard** — https://replyguard.ai  
   An AI-powered client email shield for freelancers and agencies. Generates professional reply packs, detects scope creep, and suggests clear next steps. Built with a Nuxt 3 frontend, Laravel API, Google OAuth, Stripe credit-based payments, and SEO-optimized landing pages.
 
 - **nuxt-chatgpt** — https://github.com/SchnapsterDog/nuxt-chatgpt  
@@ -34,7 +37,5 @@ On the infrastructure side, I ship products to production using **Laravel Vapor*
 - **vue-preloader** — https://vue-preloader.com/  
   The ultimate solution for fast loading screens in Vue.
 
-- **Discover Ohrid** — https://discoverohrid.mk/  
-  Co-author of an interactive travel guide for Ohrid — The City of Light.
 
 Additionally, I actively build and maintain Vue/Nuxt open-source packages, and I enjoy mentoring and collaborating with teams that care about quality, performance, and clean maintainable code.
